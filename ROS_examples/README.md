@@ -1,0 +1,1 @@
+The purpose of this file is to have a centralized location of ROS examples for reference during development.
